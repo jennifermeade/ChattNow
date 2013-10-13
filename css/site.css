@@ -1,4 +1,3 @@
-	background-color: #000; background-repeat: no-repeat; margin: 0 auto;
 
 .BrandonGrotesque-Regular { 
 	font-family: "BrandonGrotesque-Regular";
@@ -169,7 +168,6 @@ img.event-line {
 	line-height: 1.25em;
 }
 
-img.mainbg { 
 .right-column p {
 	margin-left: 20px;
 }
@@ -189,9 +187,6 @@ p { text-align: justify;
 
 #footer {
 	width: 100%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto }	height: 175px;
 	height: 175px;
 	background-color: #495B71;
 	float: left;
