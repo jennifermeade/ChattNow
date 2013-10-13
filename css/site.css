@@ -1,10 +1,219 @@
-body {
 	background-color: #000; background-repeat: no-repeat; margin: 0 auto;
+
+.BrandonGrotesque-Regular { 
+	font-family: "BrandonGrotesque-Regular";
+	font-weight: normal;
+	font-style: normal;
+}
+html, body {
+	background-color: #fff;
+	color: #000;
+	font-family: "BrandonGrotesque-Regular";	
+	font-size: 12pt;
+	margin-top: -22px;
+	font-weight: lighter;
+	line-height: 1.5em;
+	background-image: url('../images/whitebigriver.jpg');
+}
+
+.wrapper {
+	width: 925px;
+	height: 3950px;
+	background-color: #fff;
+	margin: 0 auto;
+	box-shadow: 5px 5px 30px #8a8a8a;
+	box-shadow: -5px -5px 50px #8a8a8a;
+}
+
+.bold-now {
+	color: #499BA8;
+	font-family:"BrandonGrotesque-Bold" ;
+}
+
+.bold-words {
+	font-family:"BrandonGrotesque-Bold" ;
+}
+
+.bold-events {
+	color: #B9642A;
+	font-family:"BrandonGrotesque-Bold" ;
+}
+
+#header {
+	margin-top: 20px;;
+	width: 100%;
+	height: 130px;
+	background-color: #495B71;
+}
+
+#content {
+	margin: 0 50px 0 50px;
+}
+
+h1 {
+	font-family: "Times New Roman", serif;
+	text-align: center;
+	color: #fff;
+	font-size: 50pt;
+	font-weight: lighter;
+	letter-spacing: 5px;
+	padding-top: 55px;
 }
 
 
+
+#section p{
+	width: 100%;
+	font-size: 12pt;
+}
+
+img.subhead {
+	color: #495B71;
+	font-size: 24pt;
+	text-align: center;
+	font-family: "Times New Roman, serif";
+	font-weight: bold;
+	margin: 20px 0 20px -50px;
+}
+
+.leaders p {
+	line-height: 1.5em;
+	text-align: center;
+}
+
+h4 {
+	font-family: "Times New Roman, serif";
+	color: #fff;
+	margin: 30px 0 15px 50px;
+	font-size: 16pt;
+	font-weight: lighter;	
+}
+
+#event a {
+	text-decoration: none;
+	color: #000;
+}
+
+#event a:hover {
+	color: #B9642A;
+}
+
+.left-column {
+	width:48%;
+	float: left;
+	
+}
+
+.left-column p{
+	text-align: justify;
+	font-size: 11.5pt;
+	font-weight: normal;
+	line-height: 1.5em;
+	font-weight: lighter;
+}
+
+.left-column ul, .right-column ul {
+	text-align: center;
+	list-style-type: none;
+}
+
+
+.right-column {
+	width: 48%;
+	float: right;
+	padding-right: 30px;
+}
+
+img.river {
+	float: left;
+	margin: 25px 0 50px 30px;
+}
+
+img.subhead-line {
+	float: center;
+	display: block;
+	margin-left: -50px;
+	margin-right: auto;
+}
+
+img.divider {
+	float: center;
+	display: block;
+	margin-left: auto;
+	margin-right: 50px;
+}
+
+.right-column h3 {
+	color: #499BA8;
+	margin-left: 10px;
+	text-align: center;
+	font-size: 16pt;
+	font-family: "Time New Roman", serif;
+	line-height: 1.5em;
+	margin: 15px 0 10px 50px;
+	font-weight: bold;
+}
+
+img.map {
+	float: center;
+	display: block;
+	margin: 0 auto;
+}
+
+img.event-line {
+	margin-left: 15px;
+}
+#event p {
+	text-align: left;
+	margin-left: 20px;
+	line-height: 1.25em;
+}
+
 img.mainbg { 
+.right-column p {
+	margin-left: 20px;
+}
+
+#leadership p {
+	text-align: center;
+}
+
+img.poster {
+		float: left;
+		margin-top: 10px;
+}
+
+p { text-align: justify;
+	float: left;
+}
+
+#footer {
 	width: 100%;
     display: block;
     margin-left: auto;
-    margin-right: auto }
+    margin-right: auto }	height: 175px;
+	background-color: #495B71;
+	float: left;
+	margin-top: 70px;
+}
+
+#footer p {
+		font-family: "BrandonGrotesque-Regular";
+		color: #fff;
+		padding-left: 50px;
+		margin-top: -10px;
+		font-weight: lighter;
+}
+
+#footer a {
+		font-family: "BrandonGrotesque-Regular";
+		color: #fff;
+		margin-top: -10px;
+		font-weight: lighter;
+		text-decoration: none;
+
+}
+
+#footer a:hover {
+	color: #B9642A;
+}
